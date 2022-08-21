@@ -1,3 +1,5 @@
+用第三、四强度准则校准圆轴弯扭组合
+
 core codes:
 
 double sigma3, sigma4,w=pi*pow(d,3)/32;
